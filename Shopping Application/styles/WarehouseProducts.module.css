@@ -1,0 +1,38 @@
+/* WarehouseProducts.module.css */
+.container {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    color: #333;
+    font-size: 24px;
+}
+
+.productList {
+    list-style: none;
+    padding: 0;
+}
+
+.productItem {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.productName {
+    font-size: 18px;
+    color: #0056b3;
+}
+
+.productPrice {
+    font-weight: bold;
+    color: #008000;
+}
+
+.productDescription {
+    font-style: italic;
+    color: #666;
+}
